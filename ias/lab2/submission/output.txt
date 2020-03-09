@@ -1,0 +1,83 @@
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+IP Address (Source):		 10.100.53.123
+IP Port (Source):			 2323
+IP Address (Destination):	 13.33.142.118
+IP Port (Destination):		 443
+Action:						 Allow
+----------------------------------------------
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+IP Address (Source):		 10.100.53.123 2323
+IP Port (Source):			 2323
+IP Address (Destination):	 13.33.142.118
+IP Port (Destination):		 443
+Action:						 Allow
+----------------------------------------------
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+IP Address (Source):		 10.100.53.123:2323
+IP Port (Source):			 2323
+IP Address (Destination):	 13.33.142.118
+IP Port (Destination):		 443
+Action:						 Allow
+----------------------------------------------
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+IP Address (Source):		 10.100.53.123:2323
+IP Address (Destination):	 13.33.142.118:443
+IP Port (Destination):		 443
+Action:						 Allow
+----------------------------------------------
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+IP Address (Source):		 10.100.53.123:2323
+IP Address (Destination):	 13.33.142.118:443
+Action:						 Allow
+----------------------------------------------
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+IP Address (Source):		 10.100.53.123:2323
+IP Address (Destination):	 13.33.142.118:443
+Action:						 Allow
+------------------------------------------------
+MAC Address (Source):		 6C:C2:17:77:00:A6
+MAC Address (Destination):	 50:EB:1A:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+IP Address (Source):		 10.100.53.123:2323
+IP Address (Destination):	 13.33.142.118:443
+Action:						 Allow
+------------------------------------------------

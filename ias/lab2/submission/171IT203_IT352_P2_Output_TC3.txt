@@ -1,0 +1,8 @@
+MAC Address (Source):		 30:9c:23:50:ce:c0
+MAC Address (Destination):	 ff:ff:ff:ff:ff:ff
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 UDP
+IP Address (Source):		 10.100.55.138:61980
+IP Address (Destination):	 255.255.255.255:1947
+Action:						 Deny
+------------------------------------------------

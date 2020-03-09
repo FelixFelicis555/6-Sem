@@ -1,0 +1,8 @@
+MAC Address (Source):		 50:eb:1a:90:61:32
+MAC Address (Destination):	 6c:c2:17:77:00:a6
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+IP Address (Source):		 13.33.142.118:443
+IP Address (Destination):	 10.100.53.123:2323
+Action:						 Deny
+------------------------------------------------

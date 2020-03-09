@@ -1,0 +1,8 @@
+MAC Address (Source):		 6c:c2:17:77:00:a6
+MAC Address (Destination):	 50:eb:1a:90:61:32
+Packet Type:				 IPv4
+IPv4 Packet Protocol:		 TCP
+IP Address (Source):		 10.100.53.123:1949
+IP Address (Destination):	 54.72.51.202:8282
+Action:						 Allow
+------------------------------------------------
